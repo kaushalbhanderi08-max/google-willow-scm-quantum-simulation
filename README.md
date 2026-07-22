@@ -13,7 +13,7 @@ An advanced quantum simulation and analytics framework leveraging **Google Willo
 ![Age-wise Population](Generating%20Age-wise%20Population%20Quantum%20Visuals.png)
 
 ### 3. Age vs Routine Quantum Interaction Matrix
-![Age vs Routine](Generating%20Age-wise%20Routine%20Quantum%20Simulation%20Visuals_2.png)
+![Age vs Routine](Generating Age-wise Routine Quantum Simulation Visuals.png)
 
 ### 4. SCM Routine & Industry Superposition Analysis
 ![SCM Simulation](Generating%20Google%20Willow%20SCM%20Quantum%20Simulation%20Visuals.png)
